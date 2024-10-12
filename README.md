@@ -48,9 +48,9 @@
         }
 
         .game img {
-            max-width: 100%;
+            max-width: 600%;
             height: auto;
-            border-radius: 8px;
+            border-radius: 5px;
         }
 
         .comprar-btn {
