@@ -88,8 +88,8 @@
             <h2>Selecione o Jogo</h2>
             <div class="games">
                 <div class="game">
-                    <img src="imagens/game1.jpg" alt="Jogo 1">
-                    <h3>Jogo 1</h3>
+                    <img src="fortnite.jpg" alt="fortnite">
+                    <h3>Fortnite</h3>
                     <label for="moedas1">Quantidade de Moedas:</label>
                     <select id="moedas1">
                         <option value="100">100 Moedas</option>
@@ -100,8 +100,8 @@
                 </div>
 
                 <div class="game">
-                    <img src="imagens/game2.jpg" alt="Jogo 2">
-                    <h3>Jogo 2</h3>
+                    <img src="roblox.jpg" alt="roblox">
+                    <h3>Roblox</h3>
                     <label for="moedas2">Quantidade de Moedas:</label>
                     <select id="moedas2">
                         <option value="100">100 Moedas</option>
@@ -112,8 +112,8 @@
                 </div>
 
                 <div class="game">
-                    <img src="imagens/game3.jpg" alt="Jogo 3">
-                    <h3>Jogo 3</h3>
+                    <img src="8ball.jpg" alt="8ball">
+                    <h3>8 ball pol</h3>
                     <label for="moedas3">Quantidade de Moedas:</label>
                     <select id="moedas3">
                         <option value="100">100 Moedas</option>
